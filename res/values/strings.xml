@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Temperature Converter</string>
+    <string name="action_settings">Settings</string>
+    <string name="Celsius"><u>Celsius</u></string>
+    <string name="hint1">0</string>
+    <string name="Farenheit"><u>FarenHeit</u></string>
+    <string name="hint2">0</string>
+	<string name="convert"><b>Convert</b></string>
+</resources>
